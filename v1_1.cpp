@@ -1,7 +1,5 @@
 
-
 #include "Studentas.h"
-
 
 using std::cout;
 using std::cin;
@@ -10,16 +8,24 @@ using std::vector;
 
 
 int main() {
-	vector <Studentas> student;
-
+	vector <Studentas> grupe, dvejetukininkai, moksliukai;
     int m;
     cout << "Sveiki !\n ";
-    cout << "Kiek pazymiu noresite sugeneruoti savo failuose?\n";
+    cout << "Kiek pazymiu yra jusu failuose?\n";
     cin >> m;
-    
+
     cout << "----------------------------------------------------------------------" << endl;
-    nuskaitymas(student, "studentai1.txt", 10000, m);
-    skirstymas(student, 10000);
+    cout << "Failas is 100000 eiluciu :" << endl;
+    nuskaitymas("studentai3.txt", grupe, 100000, m);
+    skirstymas(grupe, moksliukai, dvejetukininkai, 100000);
+    surasymas(dvejetukininkai, moksliukai, 100000);
+    grupe.clear(); dvejetukininkai.clear(); moksliukai.clear();
+
     cout << "----------------------------------------------------------------------" << endl;
+    cout << "Failas is 100000 eiluciu :" << endl;
+    nuskaitymas("studentai4.txt", grupe, 1000000, m);
+    skirstymas(grupe, moksliukai, dvejetukininkai, 1000000);
+    surasymas(dvejetukininkai, moksliukai, 1000000);
+    grupe.clear(); dvejetukininkai.clear(); moksliukai.clear();
 
 }

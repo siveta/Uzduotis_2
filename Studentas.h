@@ -1,3 +1,6 @@
+
+
+
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -7,55 +10,52 @@
 #include <vector>
 #include <chrono>
 #include <algorithm>
+#include <numeric>
 
-
-using std::string;
-using std::vector;
+using std::setw;
 
 class Studentas {
 private:
 	std::string vardas;
 	std::string pavarde;
-	//std::vector <int> pazymiai;
-	int pazymiai;
+	std::vector <int> pazymiai;
 	int egz;
 	double galutinis;
 
 public:
-	Studentas(std::string vardas, std::string pavarde, int pazymiai, int egz) :
-		vardas{ vardas },
-		pavarde{ pavarde },
-		pazymiai{ pazymiai },
-		egz{ egz } {}
-		//galutinis{ 0 } {}
+	Studentas(std::string v, std::string p, std::vector<int> paz, int egz) :
+		vardas{ v },
+		pavarde{ p },
+		pazymiai{ paz },
+		egz{ egz },
+		galutinis{ 0 } {}
+	~Studentas() {};
 
-	std::string getPavarde() {
-		return pavarde;
-	}
-	std::string getVardas() {
+	const std::string& getVardas() {
 		return vardas;
 	}
-	int getPazymiai() {
+	const std::string& getPavarde() {
+		return pavarde;
+	}
+	const std::vector<int>& getPazymiai() {
 		return pazymiai;
 	}
-	int getEgz() {
+	const int getEgz() {
 		return egz;
 	}
-	double getGalutinis() {
+	const double& getGalutinis() {
 		return galutinis;
 	}
 
-	bool blogas() {
-		galutinis < 5;
-	}
-
 	void galBalas() {
-		double vidurkis = pazymiai / sizeof(pazymiai);
-		galutinis = 0.6 * egz + 0.4 * vidurkis;
+		double vidurkis;
+		vidurkis = accumulate(pazymiai.begin(), pazymiai.end(), 0.00) / pazymiai.size();
+		galutinis = (0.4 * vidurkis) + (0.6 * egz);
 	}
-};
 
-void nuskaitymas(vector<Studentas>&, string a, int b, int c);
-bool skirstymas_t(Studentas s);
-bool compare(Studentas& first, Studentas& second); // palyginimas pagal galutini pazymi
-void skirstymas(std::vector<Studentas>&, int);
+};
+bool compare(Studentas& first, Studentas& second); // palyginimas pagal galutini pazymi didejimo tvarka
+void nuskaitymas(std::string, std::vector <Studentas>&, int, int);
+void skirstymas(std::vector <Studentas>&, std::vector <Studentas>&, std::vector <Studentas>&, int);
+void surasymas(std::vector <Studentas>, std::vector <Studentas>, int);
+bool priskyrimas(Studentas&);
