@@ -1,11 +1,6 @@
 
 #include "Studentas.h"
-
-using std::cout;
-using std::cin;
-using std::endl;
-using std::vector;
-
+#include "strukturos.h"
 
 int main() {
 	vector <Studentas> grupe, dvejetukininkai, moksliukai;
@@ -20,6 +15,7 @@ int main() {
     skirstymas(grupe, moksliukai, dvejetukininkai, 100000);
     surasymas(dvejetukininkai, moksliukai, 100000);
     grupe.clear(); dvejetukininkai.clear(); moksliukai.clear();
+    greicio_analize_struct("studentai3.txt", m, 100000);
 
     cout << "----------------------------------------------------------------------" << endl;
     cout << "Failas is 100000 eiluciu :" << endl;
@@ -27,5 +23,6 @@ int main() {
     skirstymas(grupe, moksliukai, dvejetukininkai, 1000000);
     surasymas(dvejetukininkai, moksliukai, 1000000);
     grupe.clear(); dvejetukininkai.clear(); moksliukai.clear();
+    greicio_analize_struct("studentai4.txt", m, 1000000);
 
 }

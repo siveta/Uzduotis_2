@@ -7,7 +7,7 @@ bool compare(Studentas& first, Studentas& second) // palyginimas pagal galutini 
 }
 
 void nuskaitymas(std::string fileName, std::vector <Studentas>& grupe, int studkiekis, int ndKiekis) {
-    
+    cout << "\t" << "Klase : " << endl;
     auto start = std::chrono::high_resolution_clock::now();
     std::ifstream failas;
     failas.open(fileName);
@@ -64,20 +64,22 @@ void skirstymas(std::vector <Studentas>& grupe, std::vector <Studentas>& moksliu
 void surasymas(std::vector <Studentas> dvejetukininkai, std::vector <Studentas> moksliukai, int studKiekis) {
     
     auto start = std::chrono::high_resolution_clock::now();
-    std::string pav1 = "dvejetukininkai" + std::to_string(studKiekis) + ".txt";
-    std::string pav2 = "moksliukai" + std::to_string(studKiekis) + ".txt";
+    std::string pav1 = "dvejetukininkai_class" + std::to_string(studKiekis) + ".txt";
+    std::string pav2 = "moksliukai_class" + std::to_string(studKiekis) + ".txt";
     
     std::ofstream myFile1(pav1);
-    myFile1 << setw(20) << "Vardas" <<setw(20) << "Pavarde" << "\t" << "Galutinis" << std::endl;
+    myFile1 << std::setw(15) << "Pavarde" << std::setw(15) << "Vardas" << std::setw(20) << "Galutinis(Vid.)" << endl;
+    myFile1 << "----------------------------------------------------------------------------------------------\n";
     for (auto& k : dvejetukininkai) {
-        myFile1 << setw(20) << k.getVardas() << setw(20) << k.getPavarde() << "\t" << k.getGalutinis() << std::endl;
+        myFile1 << std::fixed << std::setprecision(2) << setw(15) << k.getPavarde() << setw(20) << k.getVardas() << std::setw(25) << k.getGalutinis() << std::endl;
     }
     myFile1.close();
 
     std::ofstream myFile2(pav2);
-    myFile2 << setw(20) << "Vardas" << setw(20) << "Pavarde" << "\t" << "Galutinis" << std::endl;
+    myFile2 << std::setw(15) << "Pavarde" << std::setw(20) << "Vardas" << std::setw(20) << "Galutinis(Vid.)" << endl;
+    myFile2 << "----------------------------------------------------------------------------------------------\n";
     for (auto& k : moksliukai) {
-        myFile2 << setw(20) << k.getVardas() << setw(20) << k.getVardas() << "\t" << k.getGalutinis() << std::endl;
+        myFile2 << std::fixed << std::setprecision(2) << setw(15) << k.getPavarde() << setw(20) << k.getVardas() << std::setw(25) << k.getGalutinis() << std::endl;
     }
     myFile2.close();
 

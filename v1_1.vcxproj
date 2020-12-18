@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="strukturos.cpp" />
     <ClCompile Include="Studentas.cpp" />
     <ClCompile Include="v1_1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="strukturos.h" />
     <ClInclude Include="Studentas.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

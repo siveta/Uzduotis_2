@@ -1,6 +1,4 @@
 
-
-
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -11,8 +9,15 @@
 #include <chrono>
 #include <algorithm>
 #include <numeric>
+#include <stdio.h>
+#include <stdlib.h>
+#include <sstream> 
 
+using std::vector;
+using std::cout;
+using std::endl;
 using std::setw;
+using std::cin;
 
 class Studentas {
 private:
@@ -58,4 +63,5 @@ bool compare(Studentas& first, Studentas& second); // palyginimas pagal galutini
 void nuskaitymas(std::string, std::vector <Studentas>&, int, int);
 void skirstymas(std::vector <Studentas>&, std::vector <Studentas>&, std::vector <Studentas>&, int);
 void surasymas(std::vector <Studentas>, std::vector <Studentas>, int);
-bool priskyrimas(Studentas&);
+
+
