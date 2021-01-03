@@ -1,0 +1,51 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=StudentDatabase
+
+[WINDOWS]
+main="StudentDatabase","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_studentas_8cpp.html
+_studentas_8h.html
+_studentas_8h_source.html
+annotated.html
+class_studentas-members.html
+class_studentas.html
+class_zmogus-members.html
+class_zmogus.html
+classes.html
+files.html
+functions.html
+functions_func.html
+functions_vars.html
+globals.html
+globals_func.html
+hierarchy.html
+index.html
+structstudent-members.html
+structstudent.html
+strukturos_8cpp.html
+strukturos_8h.html
+strukturos_8h_source.html
+v1__5_8cpp.html
+bc_s.png
+bdwn.png
+class_studentas.png
+class_zmogus.png
+closed.png
+nav_f.png
+nav_h.png
+open.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png

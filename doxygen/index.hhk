@@ -1,0 +1,222 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html"><param name="Name" value="Studentas"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html"><param name="Name" value="Studentas.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#ac72a7ce0192d6f7bf1e01f0e7881916f"><param name="Name" value="compare"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html"><param name="Name" value="Studentas.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#adbd4313f7ab1d7ba05a5f41174e88076"><param name="Name" value="nuskaitymas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html"><param name="Name" value="Studentas.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#a01237caa7132dfa2d387fc1d29fa4ffe"><param name="Name" value="skirstymas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html"><param name="Name" value="Studentas.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#a0f7c0ee0effd25b4dac38ce070d44314"><param name="Name" value="surasymas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html"><param name="Name" value="Studentas.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#ac72a7ce0192d6f7bf1e01f0e7881916f"><param name="Name" value="compare"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html"><param name="Name" value="Studentas.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#a8c3c2ad6d4a172ca0f71919435ec8551"><param name="Name" value="nuskaitymas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html"><param name="Name" value="Studentas.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#add23afcdd86bae61a0c9cba2a7d3fdbc"><param name="Name" value="skirstymas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html"><param name="Name" value="Studentas.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#a5e58e7cc0f8bdce18f57ddba4b5148b5"><param name="Name" value="surasymas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html"><param name="Name" value="Studentas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a7d66fd926f122ac3fd5bc7d51e6926f8"><param name="Name" value="Studentas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html"><param name="Name" value="Studentas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#aec2debe11decf8a0a302c8a0dc806c31"><param name="Name" value="galBalas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html"><param name="Name" value="Studentas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a2f9dcb2fef2e6b3dbc1581779a90a68a"><param name="Name" value="getEgz"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html"><param name="Name" value="Studentas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#adff52a10ba657a5c8854693988082820"><param name="Name" value="getGalutinis"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html"><param name="Name" value="Studentas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#afc1c025f58544eed43273afa98445853"><param name="Name" value="getPavarde"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html"><param name="Name" value="Studentas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a221e2913abce60a6450fed5785693976"><param name="Name" value="getPazymiai"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html"><param name="Name" value="Studentas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a4471c08cbf44faf5fe5f4c192922bf1b"><param name="Name" value="getVardas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html"><param name="Name" value="Studentas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a63e449e0f51a0b14340d02ee71b4be23"><param name="Name" value="~Studentas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html"><param name="Name" value="Zmogus"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html"><param name="Name" value="Zmogus"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#adadfe5845f62fbce03263b7787610d69"><param name="Name" value="Zmogus"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html"><param name="Name" value="Zmogus"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#ac50d1e325af387bb385eb88bb7ff42b7"><param name="Name" value="getPavarde"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html"><param name="Name" value="Zmogus"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#a4a580af3507a2d27efe978d5be0075ab"><param name="Name" value="getVardas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html"><param name="Name" value="Zmogus"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#a99cc96defe5d014db052cc754e989b16"><param name="Name" value="pavarde"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html"><param name="Name" value="Zmogus"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#a4d456bf4fea70f08e0b26517576cfbc0"><param name="Name" value="vardas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#ac72a7ce0192d6f7bf1e01f0e7881916f"><param name="Name" value="compare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#ac72a7ce0192d6f7bf1e01f0e7881916f"><param name="Name" value="Studentas.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#ac72a7ce0192d6f7bf1e01f0e7881916f"><param name="Name" value="compare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#ac72a7ce0192d6f7bf1e01f0e7881916f"><param name="Name" value="Studentas.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8cpp.html#ae7ffcf933b7c0d6122d794243e59256e"><param name="Name" value="compareS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8cpp.html#ae7ffcf933b7c0d6122d794243e59256e"><param name="Name" value="strukturos.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8h.html#ae7ffcf933b7c0d6122d794243e59256e"><param name="Name" value="compareS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8h.html#ae7ffcf933b7c0d6122d794243e59256e"><param name="Name" value="strukturos.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#a30ca1da3560e71b8861ca362c6a419c8"><param name="Name" value="egz"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#aec2debe11decf8a0a302c8a0dc806c31"><param name="Name" value="galBalas"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#affdf032750d40a2e48b813c4d5199a4c"><param name="Name" value="galutinis"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a2f9dcb2fef2e6b3dbc1581779a90a68a"><param name="Name" value="getEgz"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#adff52a10ba657a5c8854693988082820"><param name="Name" value="getGalutinis"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#afc1c025f58544eed43273afa98445853"><param name="Name" value="getPavarde"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#afc1c025f58544eed43273afa98445853"><param name="Name" value="Studentas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#ac50d1e325af387bb385eb88bb7ff42b7"><param name="Name" value="getPavarde"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#ac50d1e325af387bb385eb88bb7ff42b7"><param name="Name" value="Zmogus"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a221e2913abce60a6450fed5785693976"><param name="Name" value="getPazymiai"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a4471c08cbf44faf5fe5f4c192922bf1b"><param name="Name" value="getVardas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a4471c08cbf44faf5fe5f4c192922bf1b"><param name="Name" value="Studentas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#a4a580af3507a2d27efe978d5be0075ab"><param name="Name" value="getVardas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#a4a580af3507a2d27efe978d5be0075ab"><param name="Name" value="Zmogus"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8cpp.html#a0a41ea0d9fa696e0919572efe3926e82"><param name="Name" value="greicio_analize_struct"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8cpp.html#a0a41ea0d9fa696e0919572efe3926e82"><param name="Name" value="strukturos.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8h.html#ac0bf1caf5a6a28b984e6d32f9e9fa7bd"><param name="Name" value="greicio_analize_struct"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8h.html#ac0bf1caf5a6a28b984e6d32f9e9fa7bd"><param name="Name" value="strukturos.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="v1__5_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#adbd4313f7ab1d7ba05a5f41174e88076"><param name="Name" value="nuskaitymas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#adbd4313f7ab1d7ba05a5f41174e88076"><param name="Name" value="Studentas.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#a8c3c2ad6d4a172ca0f71919435ec8551"><param name="Name" value="nuskaitymas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#a8c3c2ad6d4a172ca0f71919435ec8551"><param name="Name" value="Studentas.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#a99cc96defe5d014db052cc754e989b16"><param name="Name" value="pavarde"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#a99cc96defe5d014db052cc754e989b16"><param name="Name" value="Zmogus"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#accd0b1778d9a99cfc9c875da2191e0ce"><param name="Name" value="pavarde"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#accd0b1778d9a99cfc9c875da2191e0ce"><param name="Name" value="student"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#ad23d6840721caf66f503d73b317eb9c1"><param name="Name" value="pazymiai"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#a01237caa7132dfa2d387fc1d29fa4ffe"><param name="Name" value="skirstymas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#a01237caa7132dfa2d387fc1d29fa4ffe"><param name="Name" value="Studentas.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#add23afcdd86bae61a0c9cba2a7d3fdbc"><param name="Name" value="skirstymas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#add23afcdd86bae61a0c9cba2a7d3fdbc"><param name="Name" value="Studentas.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8cpp.html"><param name="Name" value="strukturos.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8cpp.html#ae7ffcf933b7c0d6122d794243e59256e"><param name="Name" value="compareS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8cpp.html"><param name="Name" value="strukturos.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8cpp.html#a0a41ea0d9fa696e0919572efe3926e82"><param name="Name" value="greicio_analize_struct"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8h.html"><param name="Name" value="strukturos.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8h.html#ae7ffcf933b7c0d6122d794243e59256e"><param name="Name" value="compareS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8h.html"><param name="Name" value="strukturos.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="strukturos_8h.html#ac0bf1caf5a6a28b984e6d32f9e9fa7bd"><param name="Name" value="greicio_analize_struct"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html"><param name="Name" value="student"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html"><param name="Name" value="student"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#a30ca1da3560e71b8861ca362c6a419c8"><param name="Name" value="egz"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html"><param name="Name" value="student"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#affdf032750d40a2e48b813c4d5199a4c"><param name="Name" value="galutinis"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html"><param name="Name" value="student"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#accd0b1778d9a99cfc9c875da2191e0ce"><param name="Name" value="pavarde"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html"><param name="Name" value="student"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#ad23d6840721caf66f503d73b317eb9c1"><param name="Name" value="pazymiai"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html"><param name="Name" value="student"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#af221542bc5d0297140d3da3d9c6ed4d6"><param name="Name" value="vardas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#a0f7c0ee0effd25b4dac38ce070d44314"><param name="Name" value="surasymas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8cpp.html#a0f7c0ee0effd25b4dac38ce070d44314"><param name="Name" value="Studentas.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#a5e58e7cc0f8bdce18f57ddba4b5148b5"><param name="Name" value="surasymas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_studentas_8h.html#a5e58e7cc0f8bdce18f57ddba4b5148b5"><param name="Name" value="Studentas.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="v1__5_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="v1_5.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#a4d456bf4fea70f08e0b26517576cfbc0"><param name="Name" value="vardas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_zmogus.html#a4d456bf4fea70f08e0b26517576cfbc0"><param name="Name" value="Zmogus"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#af221542bc5d0297140d3da3d9c6ed4d6"><param name="Name" value="vardas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstudent.html#af221542bc5d0297140d3da3d9c6ed4d6"><param name="Name" value="student"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_studentas.html#a63e449e0f51a0b14340d02ee71b4be23"><param name="Name" value="~Studentas"></OBJECT>
+</UL>
+</BODY>
+</HTML>
