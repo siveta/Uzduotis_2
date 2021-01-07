@@ -3,11 +3,11 @@
 ## v1.5
 
 **Programos dalys :**
-* [v1_5.cpp](https://github.com/siveta/Uzduotis_2/blob/v1.5/v1_5.cpp)
-* [strukturos.h](https://github.com/siveta/Uzduotis_2/blob/v1.5/strukturos.h)
-* [strukturos.cpp](https://github.com/siveta/Uzduotis_2/blob/v1.5/strukturos.cpp)
-* [Studentas.h](https://github.com/siveta/Uzduotis_2/blob/v1.5/Studentas.h)
-* [Studentas.cpp](https://github.com/siveta/Uzduotis_2/blob/v1.5/Studentas.cpp)
+* [v1_5.cpp](https://github.com/siveta/Uzduotis_2/blob/v1.5/v1.5/v1_5.cpp)
+* [strukturos.h](https://github.com/siveta/Uzduotis_2/blob/v1.5/v1.5/strukturos.h)
+* [strukturos.cpp](https://github.com/siveta/Uzduotis_2/blob/v1.5/v1.5/strukturos.cpp)
+* [Studentas.h](https://github.com/siveta/Uzduotis_2/blob/v1.5/v1.5/Studentas.h)
+* [Studentas.cpp](https://github.com/siveta/Uzduotis_2/blob/v1.5/v1.5/Studentas.cpp)
 
 ## Aprašymas
 Realizuota abstrakti klasė *Žmogus* ir išvestinė klasė *Studentas*
