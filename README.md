@@ -21,6 +21,6 @@ Realizuota abstrakti klasė *Žmogus* ir išvestinė klasė *Studentas*
 **x64**
 ||Nuskaitymas|Rūšiavimas ir skirstymas|Surašymas|Bendras laikas|
 |:--------------|------------------:|------------------:|------------------:|------------------:|
-|100000 eilučių failas|0.213554|0.0565985|0.705162|0.994464|
+|100000 eilučių failas|0.21355|0.056598|0.70516|0.99446|
 |1000000 eilučių failas|2.11448|0.585091|6.98782|9.83268|
 
