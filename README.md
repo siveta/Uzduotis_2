@@ -10,7 +10,6 @@
 * [Studentas.cpp](https://github.com/siveta/Uzduotis_2/blob/v1.5/Studentas.cpp)
 
 ## Aprašymas
-Kol kas pavyksta atidaryti tik su x64, bandysiu ateity aiškintis kas yra ne taip. Bet su x64 viskas puikiai veikia.
 Realizuota abstrakti klasė *Žmogus* ir išvestinė klasė *Studentas*
 
 ## kompiuterio parametrai
@@ -23,4 +22,10 @@ Realizuota abstrakti klasė *Žmogus* ir išvestinė klasė *Studentas*
 |:--------------|------------------:|------------------:|------------------:|------------------:|
 |100000 eilučių failas|0.21355|0.056598|0.70516|0.99446|
 |1000000 eilučių failas|2.11448|0.585091|6.98782|9.83268|
+
+**x86**
+||Nuskaitymas|Rūšiavimas ir skirstymas|Surašymas|Bendras laikas|
+|:--------------|------------------:|------------------:|------------------:|------------------:|
+|100000 eilučių failas|0.33631|0.062738|0.82844|1.2459|
+|1000000 eilučių failas|3.18966|0.68863|8.39153|12.4071|
 
