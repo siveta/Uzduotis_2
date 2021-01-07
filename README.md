@@ -18,14 +18,14 @@
 
 ![](https://github.com/siveta/Uzduotis_2/blob/v1.1/greicio_analize.png)
 
-|100000 eilučių failas|
+**100000 eilučių failas**
 ||Nuskaitymas|Rūšiavimas ir skirstymas|Surašymas|Bandras laikas|
 |:--------|:------------------|:------------------|:------------------|:------------------|
 |o1|0.583895|0.655204|0.802371|z|
 |o2|0.321166|0.059617|0.827936|Z|
 |oX|0.30696|0.0583633|0.813663|z|
 
-|100000 eilučių failas|
+**1000000 eilučių failas**
 ||Nuskaitymas|Rūšiavimas ir skirstymas|Surašymas|Bandras laikas|
 |:--------|:------------------|:------------------|:------------------|:------------------|
 |o1|3.81627|0.763006|8.0896|0|
