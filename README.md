@@ -15,8 +15,6 @@
 
 ## spartos analizės rezultatas
 
-![](https://github.com/siveta/Uzduotis_2/blob/v1.1/greicio_analize.png)
-
 **100000 eilučių failas**
 ||Nuskaitymas|Rūšiavimas ir skirstymas|Surašymas|Bandras laikas|
 |:---------------|:------------------|:------------------|:------------------|:------------------|
