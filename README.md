@@ -10,7 +10,7 @@
 * [Studentas.cpp](https://github.com/siveta/Uzduotis_2/blob/v2.0/v2/Studentas.cpp)
 
 ## Aprašymas
-Realizuota abstrakti klasė *Žmogus* ir išvestinė klasė *Studentas*
+Sukurta *Doxygen* dokumentacija, parengtas *Setup.exe* failas
 
 ## kompiuterio parametrai
 * Intel Core i5-8250U
