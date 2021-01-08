@@ -16,15 +16,15 @@
 ## spartos analizės rezultatas
 
 **100000 eilučių failas**
-||Nuskaitymas|Rūšiavimas ir skirstymas|Surašymas|Bandras laikas|
+||Nuskaitymas|Rūšiavimas ir skirstymas|Surašymas|Klasė|Struktūra|
 |:--------------|------------------:|------------------:|------------------:|------------------:|
-|o1(favor size)|0.404051|0.073727|0.871821|1.36861|
-|o2(favor speed)|0.392826|0.06239|0.817591|1.29414|
-|oX|0.430882|0.077682|0.813012|1.33759|
+|o1(favor size)|1.24237|1.21834|
+|o2(favor speed)|1.22839|1.10755|
+|oX|1.36719|1.14502|
 
 **1000000 eilučių failas**
-||Nuskaitymas|Rūšiavimas ir skirstymas|Surašymas|Bandras laikas|
+||Klasė|Struktūra|
 |:--------------|------------------:|------------------:|------------------:|------------------:|
-|o1(favor size)|3.31404|0.790667|8.40609|12.7155|
-|o2(favor speed)|3.31404|0.701111|8.18943|12.3485|
-|oX|3.21192|0.688959|8.13868|12.1842|
+|o1(favor size)|12.0454|11.5614|
+|o2(favor speed)|11.8932|11.1352|
+|oX|12.1421|11.3015|
