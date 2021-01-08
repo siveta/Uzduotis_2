@@ -16,7 +16,7 @@
 ## spartos analizės rezultatas
 
 **100000 eilučių failas**
-||Nuskaitymas|Rūšiavimas ir skirstymas|Surašymas|Klasė|Struktūra|
+||Klasė|Struktūra|
 |:--------------|------------------:|------------------:|
 |o1(favor size)|1.24237|1.21834|
 |o2(favor speed)|1.22839|1.10755|
